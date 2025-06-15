@@ -19,7 +19,5 @@ https://github-profile-trophy.vercel.app/?username=Nitish567478
 ### ✍️ Random Dev Quote
 (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-(https://visitcount.itsvg.in/api?id=Nitish567478 &icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
