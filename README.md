@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a 4th-year Computer Science Engineering student 🎓<br>🔭 Currently exploring Full Stuck Development and Web Development<br>🤝 Open to collaboration on open-source projects and creative tech ideas<br>🌱 Learning every day — from React JS<br>💬 Ask me about coding, uni life, or anything tech-related!<br>🎉 Fun fact: I write better code at night than during lectures 😅
+I'm a Computer Science Engineering student 🎓<br>🔭 Currently exploring Full-Stack Development and Web Development<br>🤝 Open to collaboration on open-source projects and creative tech ideas<br>🌱 Learning every day — from React JS<br>💬 Ask me about coding, uni life, or anything tech-related!<br>🎉 Fun fact: I write better code at night than during lectures 😅
 
 
 ## 🌐 Socials:
